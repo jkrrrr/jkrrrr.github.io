@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "Resource-Pack-Updater"
+title: Resource-Pack-Updater
 permalink: /resource-pack-updater
 date: 2024-08-08
 categories: tool
-excerpt: "A tool to update a directory of Minecraft resource packs to a desired version." 
+excerpt: A tool to update a directory of Minecraft resource packs to a desired version.
+repo_link: https://gitlab.com/jkrr/Resource-Pack-Updater
 ---
 
 # What?

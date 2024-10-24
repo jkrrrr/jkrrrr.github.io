@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "ArtMap-Helper"
+title: ArtMap-Helper
 permalink: /artmap-helper
 date: 2023-05-25
 categories: tool
-excerpt: "A tool to convert images into an ArtMap-friendly format"
+excerpt: A tool to convert images into an ArtMap-friendly format
+repo_link: https://github.com/jkrrrr/ArtMap-Helper
 ---
 
 **Repository Link:** [https://github.com/jkrrrr/ArtMap-Helper](https://github.com/jkrrrr/ArtMap-Helper)
