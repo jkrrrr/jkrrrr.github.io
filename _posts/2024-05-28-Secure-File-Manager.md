@@ -4,7 +4,8 @@ title: "Secure-File-Manager"
 permalink: /secure-file-manager
 date: 2024-05-28
 categories: cryptography
-excerpt: "An exploration of cryptographic techniques in a software engineering environment." 
+excerpt: "An exploration of cryptographic techniques in a software engineering environment."
+repo_link: "https://github.com/jkrrrr/Secure-File-Manager"
 ---
 
 **Repository link:** [https://github.com/jkrrrr/Secure-File-Manager](https://github.com/jkrrrr/Secure-File-Manager)
