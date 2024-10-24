@@ -8,8 +8,6 @@ excerpt: An exploration of cryptographic techniques in a software engineering en
 repo_link: "https://github.com/jkrrrr/Secure-File-Manager"
 ---
 
-**Repository link:** [https://github.com/jkrrrr/Secure-File-Manager](https://github.com/jkrrrr/Secure-File-Manager)
-
 # What?
 As part of my undergraduate dissertation, I created a fully-functional encryption software that employed multuple cryptographic techniques such as cryptographic hash functions, digital signatures, and password-based key derivation.
 

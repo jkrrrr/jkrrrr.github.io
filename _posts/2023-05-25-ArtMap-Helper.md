@@ -8,8 +8,6 @@ excerpt: A tool to convert images into an ArtMap-friendly format
 repo_link: https://github.com/jkrrrr/ArtMap-Helper
 ---
 
-**Repository Link:** [https://github.com/jkrrrr/ArtMap-Helper](https://github.com/jkrrrr/ArtMap-Helper)
-
 # What?
 [ArtMap](https://gitlab.com/BlockStack/ArtMap) is a server plugin for Minecraft, and allows players to paint on a 32x32 canvas using an arbitrary set of colours. This tool converts an existing image (*.png, .jpg*, *etc.*) into one that conforms to the above rules.
 
