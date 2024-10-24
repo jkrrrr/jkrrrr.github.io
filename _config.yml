@@ -26,7 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: pages-themes/merlot@v0.2.0
+# theme: null
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
