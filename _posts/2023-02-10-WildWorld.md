@@ -17,4 +17,4 @@ The goal of the website was to encourage a deeper connection between people and 
 Regularly-scheduled meetings and code review sessions allowed us to resolve issues quickly, maintain project cohesion, and stay aligned with objectives. Through the collaborative environment of the project, we also developed practical skills in version control and agile project management.
 
 # How?
-The project was developed collaboratively by a team of six using the Django web framework. Django was selected for its robust support for building data-driven web applications and compatibility with various front and back-end components, making it ideal for a project requiring user authentication, data storage, and content management.
+The project was developed collaboratively by a team of six using the Django web framework, where I acted as Project Lead. Django was selected for its robust support for building data-driven web applications and compatibility with various front and back-end components, making it ideal for a project requiring user authentication, data storage, and content management.
